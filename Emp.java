@@ -1,4 +1,4 @@
-public class emp {
+class emp {
     emp(){
         System.out.println("Hello Default Constructor Called.");
     }
